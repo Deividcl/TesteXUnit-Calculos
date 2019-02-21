@@ -1,0 +1,6 @@
+c:\users\deivid.lemes\source\repos\Somar\Somar\bin\Debug\Somar.dll
+c:\users\deivid.lemes\source\repos\Somar\Somar\bin\Debug\Somar.pdb
+c:\users\deivid.lemes\source\repos\Somar\Somar\obj\Debug\Somar.csprojAssemblyReference.cache
+c:\users\deivid.lemes\source\repos\Somar\Somar\obj\Debug\Somar.csproj.CoreCompileInputs.cache
+c:\users\deivid.lemes\source\repos\Somar\Somar\obj\Debug\Somar.dll
+c:\users\deivid.lemes\source\repos\Somar\Somar\obj\Debug\Somar.pdb

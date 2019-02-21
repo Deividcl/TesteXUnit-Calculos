@@ -1,0 +1,17 @@
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\bin\Debug\netcoreapp2.1\SomarESubtrair.deps.json
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\bin\Debug\netcoreapp2.1\SomarESubtrair.runtimeconfig.json
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\bin\Debug\netcoreapp2.1\SomarESubtrair.runtimeconfig.dev.json
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\bin\Debug\netcoreapp2.1\SomarESubtrair.dll
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\bin\Debug\netcoreapp2.1\SomarESubtrair.pdb
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\bin\Debug\netcoreapp2.1\Somar.dll
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\bin\Debug\netcoreapp2.1\Somar.pdb
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\obj\Debug\netcoreapp2.1\SomarESubtrair.csprojAssemblyReference.cache
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\obj\Debug\netcoreapp2.1\SomarESubtrair.csproj.CoreCompileInputs.cache
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\obj\Debug\netcoreapp2.1\SomarESubtrair.AssemblyInfoInputs.cache
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\obj\Debug\netcoreapp2.1\SomarESubtrair.AssemblyInfo.cs
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\obj\Debug\netcoreapp2.1\SomarESubtrair.csproj.CopyComplete
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\obj\Debug\netcoreapp2.1\SomarESubtrair.dll
+c:\Users\deivid.lemes\source\repos\Somar\SomarESubtrair\obj\Debug\netcoreapp2.1\SomarESubtrair.pdb
